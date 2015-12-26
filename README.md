@@ -1,4 +1,14 @@
+
 # ChuckNorris
+
+## Develpment
+To run dev hubbot ```npm run hubot```
+At the prompt
+`makkina calendar`
+
+## Tests
+To run tests ```npm test```
+
 
                 .               .......................................................................
       .     . .  .          . .  ....   ..    ,=$NNNMN$~.     .  .......................................
