@@ -6,6 +6,11 @@ To run dev hubbot ```npm run hubot```
 At the prompt
 `makkina calendar`
 
+## Production
+Production is based on Docker.
+To build the Bot Image `docker build -t mondora/chuck-norris .`
+To run the self-containing bot: `docker run -e HUBOT_SLACK_TOKEN=<YOUR BOT KEY> -e HUBOT_SLACK_TEAM=<YOUR TEAM> -e HUBOT_SLACK_BOTNAME=<THE NAME OF THE BOT> -d mondora/chuck-norris`
+
 ## Tests
 To run tests ```npm test```
 
