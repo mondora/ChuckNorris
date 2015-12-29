@@ -51,3 +51,11 @@ describe("calendar-week", function () {
         chai.expect(actual).to.equal(2);
     });
 });
+
+describe("test if week is 39", function () {
+    it("should be ", function () {
+        var today = new Date("2015-12-29"); //the day before easter!!!
+        var actual = calendar.weeks(today);
+        chai.expect(actual).to.equal(39);
+    });
+});

@@ -15,7 +15,7 @@ module.exports = {
         return year+"-"+month + "-" + day;
     },
     weeksBetween: function (fromdate, todate) {
-        return Math.round((todate-fromdate)/ 604800000);
+        return Math.floor((todate-fromdate)/ 604800000);
     },
     lastEaster: function (date) {
         var currentYear = date.getFullYear();
