@@ -1,5 +1,4 @@
-module.exports = [
-  {week:1,
+{weeks,  {week:1,
     english:"# Easter (April 7-13) - PRIMAVERA\n\nWhen out of world-wide spaces\nThe sun speaks to the human mind,\nAnd gladness from the depths of soul\nBecomes, in seeing, one with light,\nThen rising from the sheath of self,\nThoughts soar to distances of space\nAnd dimly bind\nThe human being to the spirit's life.",
     italian:"# Atmosfera di Pasqua (7-13 Aprile)\n\nQuando da spazi universali il sole\nparla al senso dell'uomo\ne dal fondo dell'anima alla luce\nla gioia, contemplando, si congiunge,\nallor dal chiuso dell'egoità\nmigran pensieri nei lontani spazi\ne ottusamente avvincono\nallo spirito l'essere dell'uomo.",
     deutsch:"# Osterstimmung (7-13 April)\n\nWenn aus den Weltenweiten\nDie Sonne spricht zum Menschensinn\nUnd Freude aus den Seelentiefen\nDem Licht sich eint im Schauen,\nDann ziehen aus der Selbstheit Hülle\nGedanken in die Raumesfernen\nUnd binden dumpf\nDes Menschen Wesen an des Geistes Sein.",
@@ -309,6 +308,5 @@ module.exports = [
     italian:"# Cinquantaduesima settimana (30 Marzo)\n\nSe dal fondo dell'anima\nlo spirito si volge all'universo\ne bellezza fluisce dagli spazi,\nallor si versa da remoti cieli\nforza di vita negli umani corpi\ned operando con potenza unisce\nl'essenza dello spirito dell'uomo.",
     deutsch:"# Fünfte März-Woche\n\nWenn aus den Seelentiefen\nDer Geist sich wendet zu dem Weltensein\nUnd Schönheit quillt aus Raumesweiten,\nDann zieht aus Himmelsfernen\nDes Lebens Kraft in Menschenleiber\nUnd einet, machtvoll wirkend,\nDes Geistes Wesen mit dem Menschensein.",
     refweek: 1,
-    Eurythmy: "Z"}
+    Eurythmy: "Z"}}
 
-];
